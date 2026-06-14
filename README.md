@@ -302,7 +302,6 @@ The Vending Machine Controller was successfully implemented using a Finite State
 ## Repository Structure
 
 ```text
-│
 ├── vending_machine.v
 ├── vending_machine_tb.v
 ├── waveform.png
